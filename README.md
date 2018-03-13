@@ -1,4 +1,4 @@
-tiny-spring 我的测试第一节  冲突测试点点滴滴
+tiny-spring 我的测试第一节  冲突测试ddd
 =======
 
 >A tiny IoC container refer to Spring.
@@ -12,7 +12,7 @@ tiny-spring 我的测试第一节  冲突测试点点滴滴
 ## 功能
 
 1. 支持singleton类型的bean，包括初始化、属性注入、以及依赖bean注入。
-2. 可从xml中读取配置。
+2. 可从xml中读取配置。`_**``**_`
 3. 可以使用Aspectj的方式进行AOP编写，支持接口和类代理。
 
 ## 使用
