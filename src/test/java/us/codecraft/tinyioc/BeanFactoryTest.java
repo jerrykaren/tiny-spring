@@ -14,7 +14,7 @@ import us.codecraft.tinyioc.beans.xml.XmlBeanDefinitionReader;
 public class BeanFactoryTest {
 
     public static void main(String[] args) {
-        System.out.println("BeanFactoryTest.main");
+        System.out.println("BeanFactoryTest.main   dd");
     }
 
     @Test
