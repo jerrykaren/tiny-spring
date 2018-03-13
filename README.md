@@ -1,4 +1,4 @@
-tiny-spring 我的测试第一节
+tiny-spring 我的测试第一节  冲突测试
 =======
 
 >A tiny IoC container refer to Spring.
