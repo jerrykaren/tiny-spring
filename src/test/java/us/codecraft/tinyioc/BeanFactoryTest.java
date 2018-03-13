@@ -13,6 +13,10 @@ import us.codecraft.tinyioc.beans.xml.XmlBeanDefinitionReader;
  */
 public class BeanFactoryTest {
 
+    public static void main(String[] args) {
+        System.out.println("BeanFactoryTest.main");
+    }
+
     @Test
     public void testLazy() throws Exception {
         // 1.读取配置
